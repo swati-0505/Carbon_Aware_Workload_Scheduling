@@ -1,0 +1,45 @@
+#datas
+numpy
+pandas
+scipy
+openpyxl
+pyarrow
+
+#vizualization
+matplotlib
+seaborn
+plotly
+
+#ML & forecasting
+scikit-learn
+xgboost
+statsmodels
+joblib
+
+#DL(LSTM forecaster)
+torch
+
+#RL Scheduler
+gymnasium
+stable-baselines3
+
+#data fetching
+requests
+python-dotenv
+
+#AI agent & UI
+streamlit
+anthropic
+
+#notebooks
+jupyter
+ipykernel
+notebook
+
+#utilities
+tqdm
+pyyaml
+pytest
+
+#report
+python-docx
