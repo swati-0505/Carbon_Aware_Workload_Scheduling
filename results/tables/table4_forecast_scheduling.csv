@@ -1,0 +1,6 @@
+policy,"India, 6 h slack","India, 12 h slack","India, 24 h slack","UK, 6 h slack","UK, 12 h slack","UK, 24 h slack"
+Baseline (run now),0.0,0.0,0.0,0.0,0.0,0.0
+Threshold rule,0.44,1.83,2.65,1.61,3.42,5.13
+Seasonal-24h guess,1.01,2.35,3.94,2.79,4.68,5.75
+ML forecast,1.01,2.34,3.87,4.06,6.37,8.39
+Oracle (perfect),1.06,2.42,4.14,5.69,9.68,14.02

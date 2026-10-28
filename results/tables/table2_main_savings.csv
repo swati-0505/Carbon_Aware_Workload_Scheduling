@@ -1,0 +1,7 @@
+policy_label,India: saving (%),India: mean delay (h),India: violations,UK: saving (%),UK: mean delay (h),UK: violations
+Baseline (run now),0.0,0.0,0,0.0,0.0,0
+Threshold rule,2.56,3.74,1,6.04,6.75,8
+Seasonal-24h guess,3.68,7.47,26,5.53,6.58,16
+Seasonal-168h guess,3.62,8.02,24,5.58,7.36,32
+Persistence,0.0,0.0,0,0.0,0.0,0
+Oracle (perfect),3.87,7.98,41,13.62,7.27,37

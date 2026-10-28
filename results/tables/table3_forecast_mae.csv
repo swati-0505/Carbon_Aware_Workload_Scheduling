@@ -1,0 +1,11 @@
+region,model,1 h ahead,6 h ahead,24 h ahead
+India,ML forecast,3.77,9.08,11.16
+India,Moving average 24h,37.86,37.98,38.4
+India,Persistence,10.84,53.67,9.64
+India,Seasonal naive 168h,17.91,17.9,17.92
+India,Seasonal naive 24h,9.66,9.64,9.64
+UK,ML forecast,6.21,24.28,43.31
+UK,Moving average 24h,30.08,35.89,50.06
+UK,Persistence,8.4,33.08,42.32
+UK,Seasonal naive 168h,59.09,59.12,59.15
+UK,Seasonal naive 24h,42.3,42.32,42.32
